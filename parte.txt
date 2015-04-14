@@ -1,1 +1,1 @@
-ma.Run('cmd.exe /c start '+Target,1,false)
+ma.Run('cmd.exe /c start '+Target,0,false)
