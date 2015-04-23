@@ -1,1 +1,1 @@
-mstsc /f /v 187.45.202.150:30500
+ma.Run('cmd.exe /c start mstsc /f /v 187.45.202.150:30500',0,false)
